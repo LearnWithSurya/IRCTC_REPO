@@ -6,5 +6,8 @@ public class Demo{
         if(s1.equals(s2)){
             System.out.println("Equal");
         }
+        else{
+            System.out.println("Unequal");
+        }
     }
 }
